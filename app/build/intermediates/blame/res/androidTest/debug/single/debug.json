@@ -1,0 +1,634 @@
+[
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_callmsgsafe.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/callmsgsafe.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_applock_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/applock_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_contact_et_left_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/contact_et_left_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_clean_all_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/clean_all_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_btn_search_numbelongto_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/btn_search_numbelongto_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_smsbackup_buuton_bg.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/smsbackup_buuton_bg.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_coner_white_rec.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/coner_white_rec.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_back.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_correction_flow_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/correction_flow_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_quickscan_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/quickscan_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_add_blackname_btn_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/add_blackname_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d2fd83ce0818bfbd8886beec923d59bb/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d2fd83ce0818bfbd8886beec923d59bb/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_action.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d2fd83ce0818bfbd8886beec923d59bb/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_select_all_btn_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/select_all_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_cacheclean_trashbin_close_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/cacheclean_trashbin_close_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_cachescan_righticon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/cachescan_righticon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_toggle_btn_blue_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/toggle_btn_blue_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_cacheclean_trashbin_open_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/cacheclean_trashbin_open_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_cleancache_finish.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/cleancache_finish.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_shareicon_white_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/shareicon_white_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_processmanagerlockscreen_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/processmanagerlockscreen_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_processmanager_showsysapps.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/processmanager_showsysapps.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_virusscan_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/virusscan_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_broom_center.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/broom_center.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_rightarrow_blue.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/rightarrow_blue.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d2fd83ce0818bfbd8886beec923d59bb/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_safe.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/safe.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_traffic_green.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/traffic_green.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_slide_view_green.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/slide_view_green.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_clean_process_btn_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/clean_process_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_delete_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/delete_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_no_blacknumbericon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/no_blacknumbericon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_btn_search_numbelongto_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/btn_search_numbelongto_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_location_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/location_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_settingicon_yellow_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/settingicon_yellow_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_slide_view.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/slide_view.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_sim_alarm_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/sim_alarm_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d2fd83ce0818bfbd8886beec923d59bb/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d2fd83ce0818bfbd8886beec923d59bb/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_settings.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_taskmanager.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/taskmanager.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_enterpsw_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/enterpsw_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_green_checkbox_c.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/green_checkbox_c.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_atools.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/atools.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_finish_cleancache_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/finish_cleancache_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_alarm.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/alarm.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d2fd83ce0818bfbd8886beec923d59bb/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_add.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/add.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_add_fromcontact_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/add_fromcontact_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_inverse_btn_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/inverse_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_numbelongto_et_bg.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/numbelongto_et_bg.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_custom_big.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_programoflock.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/programoflock.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_purplecircle.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/purplecircle.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_scanning_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/scanning_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_traffic_red.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/traffic_red.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_appunlock_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/appunlock_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_wifi_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/wifi_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_trojan.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/trojan.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_netmanager.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/netmanager.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_contacticon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/contacticon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_lock.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/lock.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_clean_process_btn_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/clean_process_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_restart_scan_btn.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/restart_scan_btn.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_lockscreen.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/lockscreen.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_swtch_btn_on.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/swtch_btn_on.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_add_btn_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/add_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_phoneicon_yellow_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/phoneicon_yellow_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_select_all_btn_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/select_all_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_sms_backup.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/sms_backup.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_shareicon_yellow_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/shareicon_yellow_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_broom_right.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/broom_right.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_operator_finish_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/operator_finish_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_add_blackname_btn_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/add_blackname_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_numofbelongto.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/numofbelongto.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_location_icon_small.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/location_icon_small.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_sim_bind_e.9.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/sim_bind_e.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_checkbox_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/checkbox_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_deleteicon_yellow_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/deleteicon_yellow_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_bg_home.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/bg_home.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_security_phone.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/security_phone.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_cancle_scan_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/cancle_scan_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_settingicon_white_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/settingicon_white_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_processmanager_setting_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/processmanager_setting_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d2fd83ce0818bfbd8886beec923d59bb/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_arrow_right.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d2fd83ce0818bfbd8886beec923d59bb/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_scan_complete.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/scan_complete.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_lock_screen_icon_small.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/lock_screen_icon_small.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_numbelongtoicon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/numbelongtoicon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_add_fromcontact_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/add_fromcontact_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_contact_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/contact_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_clean_all_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/clean_all_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_green_troggle_c.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/green_troggle_c.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_delete.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_wipedata.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/wipedata.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_sim_alarm_icon_small.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/sim_alarm_icon_small.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_switch_btn_off.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/switch_btn_off.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_delete_data.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/delete_data.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_correction_flow_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/correction_flow_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_right_arrows_red.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/right_arrows_red.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_brightpurple_contact_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/brightpurple_contact_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_broom_left.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/broom_left.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_finish_cleancache_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/finish_cleancache_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_operator_set_info_incon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/operator_set_info_incon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_add_btn_n.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/add_btn_n.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_clean_all_e.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/clean_all_e.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_inverse_btn_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/inverse_btn_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_brightpurple_checkbox_c.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/brightpurple_checkbox_c.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_gprs_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/gprs_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_go_greenicon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/go_greenicon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_ic_default.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/ic_default.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_operator_finish_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/operator_finish_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_app.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/app.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_delete_data_small.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/delete_data_small.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_sim_bind_n.9.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/sim_bind_n.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_sysoptimize.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/sysoptimize.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_sim_bind_p.9.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/sim_bind_p.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_sms_reduction.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/sms_reduction.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_lock_screen_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/lock_screen_icon.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_cancle_scan_p.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/cancle_scan_p.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/huangbaole/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/5cc8211ed1e48dd3d75f60fc2aad9ce7/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_operator_spinner_bg.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/operator_spinner_bg.png"
+    },
+    {
+        "merged": "/Users/huangbaole/work/phone/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_blue_right_icon.png.flat",
+        "source": "/Users/huangbaole/work/phone/app/src/androidTest/res/drawable-hdpi/blue_right_icon.png"
+    }
+]
